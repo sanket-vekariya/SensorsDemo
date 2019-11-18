@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Sensors Demo</string>
+    <string name="picture">Picture</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="acra_toast_text">This is Crash Toast Text.</string>
+    <string name="on_context_click">onContextClick</string>
+    <string name="dispatch_touch_event">dispatchTouchEvent</string>
+    <string name="on_show_press">onShowPress</string>
+    <string name="on_single_tap_up">onSingleTapUp</string>
+    <string name="on_down">onDown</string>
+    <string name="on_fling">onFling</string>
+    <string name="on_scroll">onScroll</string>
+    <string name="on_long_press">onLongPress</string>
+    <string name="on_double_tap">onDoubleTap</string>
+    <string name="on_double_tap_event">onDoubleTapEvent</string>
+    <string name="on_single_tap_confirmed">onSingleTapConfirmed</string>
+    <string name="current_lignt_on_screen">current light on screen is (in Float) :</string>
+    <string name="text_view">textView</string>
+    <string name="shake_phone_to_see_demo">shake phone to see the demo</string>
+    <string name="compass_content_description">image_compass</string>
+    <string name="hide_screen_light_demo">Hide screen with your hand to see the demo  Color changing at 30% of light</string>
+    <string name="hold_or_shake_demo">hold or shake your phone to see the demo</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="light">Light</string>
+    <string name="temperature">Temperature</string>
+    <string name="compass">Compass</string>
+    <string name="camera">Camera</string>
+    <string name="magnetometer">Magnetometer</string>
+    <string name="touch">Touch</string>
+    <string name="sensors_available_in_your_phone">Sensors Available in your phone</string>
+    <string name="hold_phone_to_see_temperature_demo">hold the phone to see the demo  If temperature is more than 30  Background color will be blue</string>
+    <string name="button">Button</string>
+    <string name="capture">Capture</string>
+</resources>
